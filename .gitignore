@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Raw data (MUST NOT PUSH TO GITHUB)
+sales-analytics/data/raw/
+hr-analytics/data/raw/
+
+# Processed data (optional to track)
+*.csv
+
+# Local env files
+.env
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
