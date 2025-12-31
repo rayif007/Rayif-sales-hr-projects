@@ -34,6 +34,13 @@ This project covers attrition analysis + prediction using:
 - Identified key attrition drivers and documented insights
 - Prepared analysis notebook for portfolio review
 
+### Day 8 – Role-wise & Tenure-based Attrition Analysis
+- Analyzed attrition across job roles and job levels
+- Identified high-risk roles with elevated attrition
+- Performed tenure-based attrition analysis
+- Documented actionable HR insights
+
+
 
 
 
